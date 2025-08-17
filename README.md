@@ -11,4 +11,6 @@
 - Detecta errores en tu codigo y te avisa
 - Te da consejos
 - Te acompana en tus estudios
+- implementar sistema de vidas con mini challenges
+
 
